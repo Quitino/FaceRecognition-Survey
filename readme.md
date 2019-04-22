@@ -92,6 +92,17 @@
 |Camvi119	|0.9987 ± 0.0018|
 |IFLYTEK-CV120|	0.9980 ± 0.0024|
 
+### 3.论文合集
+
+- [十年千篇](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+
+### other
+ 祝大佬说：类似这种的综述reference硕士论文。
+
+
+
+
+
 
 
 
