@@ -10,6 +10,7 @@
  - [Labeled Faces in the Wild,](http://vis-www.cs.umass.edu/lfw/results.html)里面各大研究者和商业机构近几年的结果展示（LFW网页的展示）.
  - [MegaFace数据集,](http://megaface.cs.washington.edu/)各个研究者在megaface竞赛上的研究结果.
  - [参考文章.](https://www.codercto.com/a/33679.html)
+ - [参考链接.](https://zhuanlan.zhihu.com/p/24816781)
 
 
 | 方案 | 识别率 | 
