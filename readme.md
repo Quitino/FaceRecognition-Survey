@@ -96,7 +96,7 @@
 
 - [十年千篇](https://github.com/ChanChiChoi/awesome-Face_Recognition)
 
-### other
+### 4.other
  祝大佬说：类似这种的综述reference硕士论文。
 
 
